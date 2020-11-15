@@ -1,0 +1,83 @@
+D:\projects for vs\FOV changer\FOV changer\bin\Debug\FOV changer.dll
+D:\projects for vs\FOV changer\FOV changer\bin\Debug\FOV changer.pdb
+D:\projects for vs\FOV changer\FOV changer\bin\Debug\Assembly-CSharp.dll
+D:\projects for vs\FOV changer\FOV changer\bin\Debug\BepInEx.dll
+D:\projects for vs\FOV changer\FOV changer\bin\Debug\UnityEngine.CoreModule.dll
+D:\projects for vs\FOV changer\FOV changer\bin\Debug\UnityEngine.dll
+D:\projects for vs\FOV changer\FOV changer\bin\Debug\UnityEngine.InputLegacyModule.dll
+D:\projects for vs\FOV changer\FOV changer\bin\Debug\VecterModCore.dll
+D:\projects for vs\FOV changer\FOV changer\bin\Debug\Unity.TextMeshPro.dll
+D:\projects for vs\FOV changer\FOV changer\bin\Debug\UnityEngine.PhysicsModule.dll
+D:\projects for vs\FOV changer\FOV changer\bin\Debug\UnityEngine.UI.dll
+D:\projects for vs\FOV changer\FOV changer\bin\Debug\UnityEngine.TextRenderingModule.dll
+D:\projects for vs\FOV changer\FOV changer\bin\Debug\Assembly-CSharp-firstpass.dll
+D:\projects for vs\FOV changer\FOV changer\bin\Debug\UnityEngine.UnityWebRequestModule.dll
+D:\projects for vs\FOV changer\FOV changer\bin\Debug\UnityEngine.AssetBundleModule.dll
+D:\projects for vs\FOV changer\FOV changer\bin\Debug\UnityEngine.UIModule.dll
+D:\projects for vs\FOV changer\FOV changer\bin\Debug\UnityEngine.VideoModule.dll
+D:\projects for vs\FOV changer\FOV changer\bin\Debug\UnityEngine.AudioModule.dll
+D:\projects for vs\FOV changer\FOV changer\bin\Debug\Newtonsoft.Json.dll
+D:\projects for vs\FOV changer\FOV changer\bin\Debug\NLayer.dll
+D:\projects for vs\FOV changer\FOV changer\bin\Debug\TagLibSharp.dll
+D:\projects for vs\FOV changer\FOV changer\bin\Debug\Mono.Nat.dll
+D:\projects for vs\FOV changer\FOV changer\bin\Debug\Unity.Postprocessing.Runtime.dll
+D:\projects for vs\FOV changer\FOV changer\bin\Debug\UnityEngine.AIModule.dll
+D:\projects for vs\FOV changer\FOV changer\bin\Debug\UnityEngine.AnimationModule.dll
+D:\projects for vs\FOV changer\FOV changer\bin\Debug\UnityEngine.VRModule.dll
+D:\projects for vs\FOV changer\FOV changer\bin\Debug\UnityEngine.IMGUIModule.dll
+D:\projects for vs\FOV changer\FOV changer\bin\Debug\UnityEngine.UnityAnalyticsModule.dll
+D:\projects for vs\FOV changer\FOV changer\bin\Debug\UnityEngine.ScreenCaptureModule.dll
+D:\projects for vs\FOV changer\FOV changer\bin\Debug\Ionic.Zlib.CF.dll
+D:\projects for vs\FOV changer\FOV changer\bin\Debug\UnityEngine.ImageConversionModule.dll
+D:\projects for vs\FOV changer\FOV changer\bin\Debug\UnityEngine.UnityWebRequestTextureModule.dll
+D:\projects for vs\FOV changer\FOV changer\bin\Debug\Mono.Cecil.dll
+D:\projects for vs\FOV changer\FOV changer\bin\Debug\0Harmony.dll
+D:\projects for vs\FOV changer\FOV changer\bin\Debug\MonoMod.Utils.dll
+D:\projects for vs\FOV changer\FOV changer\bin\Debug\UnityEngine.DSPGraphModule.dll
+D:\projects for vs\FOV changer\FOV changer\bin\Debug\UnityEngine.UIElementsModule.dll
+D:\projects for vs\FOV changer\FOV changer\bin\Debug\UnityEngine.AndroidJNIModule.dll
+D:\projects for vs\FOV changer\FOV changer\bin\Debug\UnityEngine.AccessibilityModule.dll
+D:\projects for vs\FOV changer\FOV changer\bin\Debug\UnityEngine.UnityConnectModule.dll
+D:\projects for vs\FOV changer\FOV changer\bin\Debug\UnityEngine.PerformanceReportingModule.dll
+D:\projects for vs\FOV changer\FOV changer\bin\Debug\UnityEngine.Physics2DModule.dll
+D:\projects for vs\FOV changer\FOV changer\bin\Debug\UnityEngine.SharedInternalsModule.dll
+D:\projects for vs\FOV changer\FOV changer\bin\Debug\UnityEngine.ClothModule.dll
+D:\projects for vs\FOV changer\FOV changer\bin\Debug\UnityEngine.ClusterInputModule.dll
+D:\projects for vs\FOV changer\FOV changer\bin\Debug\UnityEngine.ClusterRendererModule.dll
+D:\projects for vs\FOV changer\FOV changer\bin\Debug\UnityEngine.CrashReportingModule.dll
+D:\projects for vs\FOV changer\FOV changer\bin\Debug\UnityEngine.TilemapModule.dll
+D:\projects for vs\FOV changer\FOV changer\bin\Debug\UnityEngine.TerrainModule.dll
+D:\projects for vs\FOV changer\FOV changer\bin\Debug\UnityEngine.VFXModule.dll
+D:\projects for vs\FOV changer\FOV changer\bin\Debug\UnityEngine.GridModule.dll
+D:\projects for vs\FOV changer\FOV changer\bin\Debug\UnityEngine.SubsystemsModule.dll
+D:\projects for vs\FOV changer\FOV changer\bin\Debug\UnityEngine.JSONSerializeModule.dll
+D:\projects for vs\FOV changer\FOV changer\bin\Debug\UnityEngine.LocalizationModule.dll
+D:\projects for vs\FOV changer\FOV changer\bin\Debug\UnityEngine.UNETModule.dll
+D:\projects for vs\FOV changer\FOV changer\bin\Debug\UnityEngine.UnityWebRequestAssetBundleModule.dll
+D:\projects for vs\FOV changer\FOV changer\bin\Debug\UnityEngine.UnityWebRequestAudioModule.dll
+D:\projects for vs\FOV changer\FOV changer\bin\Debug\UnityEngine.UnityWebRequestWWWModule.dll
+D:\projects for vs\FOV changer\FOV changer\bin\Debug\UnityEngine.ParticleSystemModule.dll
+D:\projects for vs\FOV changer\FOV changer\bin\Debug\UnityEngine.DirectorModule.dll
+D:\projects for vs\FOV changer\FOV changer\bin\Debug\UnityEngine.VirtualTexturingModule.dll
+D:\projects for vs\FOV changer\FOV changer\bin\Debug\UnityEngine.GameCenterModule.dll
+D:\projects for vs\FOV changer\FOV changer\bin\Debug\UnityEngine.SpriteMaskModule.dll
+D:\projects for vs\FOV changer\FOV changer\bin\Debug\UnityEngine.StreamingModule.dll
+D:\projects for vs\FOV changer\FOV changer\bin\Debug\UnityEngine.TerrainPhysicsModule.dll
+D:\projects for vs\FOV changer\FOV changer\bin\Debug\UnityEngine.TextCoreModule.dll
+D:\projects for vs\FOV changer\FOV changer\bin\Debug\UnityEngine.SpriteShapeModule.dll
+D:\projects for vs\FOV changer\FOV changer\bin\Debug\UnityEngine.UIElementsNativeModule.dll
+D:\projects for vs\FOV changer\FOV changer\bin\Debug\UnityEngine.VehiclesModule.dll
+D:\projects for vs\FOV changer\FOV changer\bin\Debug\UnityEngine.WindModule.dll
+D:\projects for vs\FOV changer\FOV changer\bin\Debug\UnityEngine.XRModule.dll
+D:\projects for vs\FOV changer\FOV changer\bin\Debug\UnityEngine.ARModule.dll
+D:\projects for vs\FOV changer\FOV changer\bin\Debug\UnityEngine.InputModule.dll
+D:\projects for vs\FOV changer\FOV changer\bin\Debug\MonoMod.RuntimeDetour.dll
+D:\projects for vs\FOV changer\FOV changer\bin\Debug\BepInEx.xml
+D:\projects for vs\FOV changer\FOV changer\bin\Debug\0Harmony.xml
+D:\projects for vs\FOV changer\FOV changer\bin\Debug\MonoMod.Utils.xml
+D:\projects for vs\FOV changer\FOV changer\bin\Debug\MonoMod.RuntimeDetour.xml
+D:\projects for vs\FOV changer\FOV changer\obj\Debug\FOV changer.csprojAssemblyReference.cache
+D:\projects for vs\FOV changer\FOV changer\obj\Debug\FOV changer.csproj.CoreCompileInputs.cache
+D:\projects for vs\FOV changer\FOV changer\obj\Debug\FOV changer.csproj.CopyComplete
+D:\projects for vs\FOV changer\FOV changer\obj\Debug\FOV changer.dll
+D:\projects for vs\FOV changer\FOV changer\obj\Debug\FOV changer.pdb
